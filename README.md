@@ -34,7 +34,7 @@ eso es todo el código.
 
 **Sistema computacional:**
 
-Inputs:
+**Inputs:**
 
 //Eventos
 
@@ -105,7 +105,7 @@ decorativo.
 
 **Referentes y bocetos**
 
-//Referentes
+//Referentes:
 
 ![Referente](MEDIA/applefotobot.jpg)
 
@@ -115,6 +115,7 @@ decorativo.
 
 ![Referente](MEDIA/bmo.jpg)
 
+//Bocetos:
 
 ![Boceto](MEDIA/BOCETO1.png)
 
