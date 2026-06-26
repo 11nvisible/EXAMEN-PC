@@ -76,8 +76,39 @@ Todos estos interactuan con diferentes funciones, tales como:
 ![Funciones](MEDIA/codigo5.png)
 
 
+![Funciones](MEDIA/codigo7.png)
+
+
 ![Funciones](MEDIA/codigo8.png)
 
 
 ![Funciones](MEDIA/codigo9.png)
 
+
+**Recursos multimedia:**
+
+En cuanto a recursos multimedia, utilicé 2 de 3, siendo estos los siguientes:
+
+- Webcam
+- Imagen
+
+El primero es el elemento principal del codigo, ya que en base a él funciona todo, y el segundo lo utilicé más como elemto
+decorativo.
+
+**Rerentes y bocetos**
+
+//Referentes
+
+![Referente](MEDIA/applefotobot.jpg)
+
+
+![Referente](MEDIA/cabinadefoto.jpg)
+
+
+![Boceto](MEDIA/BOCETO1.PNG)
+
+
+![Boceto](MEDIA/BOCETO2.PNG)
+
+
+![Boceto](MEDIA/propuesta1.PNG)
