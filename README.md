@@ -61,7 +61,7 @@ El código consta de 3 estados:
 
 Los datos que van entrando al sistema son los siguientes: 
 
-![Variables](codigo1.png)
+![Variables](MEDIA/codigo1.png)
 
 A partir de estas variables se definen 7 interacciones:
 
