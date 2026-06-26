@@ -4,8 +4,8 @@
 
 **Autor: Matías Padilla**
 
-![Link público](https://editor.p5js.org/INVISIBLE/full/E_CAP5oH5)
-![Link editable](https://editor.p5js.org/INVISIBLE/sketches/E_CAP5oH5)
+[Link público](https://editor.p5js.org/INVISIBLE/full/E_CAP5oH5)
+[Link editable](https://editor.p5js.org/INVISIBLE/sketches/E_CAP5oH5)
 
 **Descripción General:**
 
