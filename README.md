@@ -105,10 +105,10 @@ decorativo.
 ![Referente](MEDIA/cabinadefoto.jpg)
 
 
-![Boceto](MEDIA/BOCETO1.PNG)
+![Boceto](MEDIA/BOCETO1.png)
 
 
-![Boceto](MEDIA/BOCETO2.PNG)
+![Boceto](MEDIA/BOCETO2.png)
 
 
-![Boceto](MEDIA/propuesta1.PNG)
+![Boceto](MEDIA/propuesta1.png)
