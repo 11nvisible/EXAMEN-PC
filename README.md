@@ -1,7 +1,11 @@
 # EXAMEN PENSAMIENTO COMPUTACIONAL
 
 ## Nombre proyecto: PHOTO BOOTH
-Autor: Matías Padilla
+
+**Autor: Matías Padilla**
+
+![Link público](https://editor.p5js.org/INVISIBLE/full/E_CAP5oH5)
+![Link editable](https://editor.p5js.org/INVISIBLE/sketches/E_CAP5oH5)
 
 **Descripción General:**
 
@@ -112,3 +116,10 @@ decorativo.
 
 
 ![Boceto](MEDIA/propuesta1.png)
+
+
+**Conclusión y reflexión:**
+
+En este proyecto aprendí a como usar mejor las variables, el manejo de elementos como **tint()** y **blendMode()**, la creación
+de estados, para así ir diferenciando las etapas del código, y una mejor lectura de sintaxis. También me encontré con diversas dificultades, tales como equivocarme
+y cambiar cosas mil y una veces debido a que no me convenvia o directamente no funcionaba como quería.
