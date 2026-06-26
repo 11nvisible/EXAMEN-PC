@@ -76,8 +76,8 @@ Todos estos interactuan con diferentes funciones, tales como:
 ![Funciones](MEDIA/codigo5.png)
 
 
-![Funciones](MEDIA/codigo7.png)
-
-
 ![Funciones](MEDIA/codigo8.png)
+
+
+![Funciones](MEDIA/codigo9.png)
 
