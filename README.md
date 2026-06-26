@@ -99,6 +99,10 @@ En cuanto a recursos multimedia, utilicé 2 de 3, siendo estos los siguientes:
 El primero es el elemento principal del código, ya que en base a él funciona todo, y el segundo lo utilicé más como elemento
 decorativo.
 
+**Diagrama de flujo:**
+
+![Diagrama](MEDIA/EXAMEN.png)
+
 **Referentes y bocetos**
 
 //Referentes
