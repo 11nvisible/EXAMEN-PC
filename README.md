@@ -1,7 +1,7 @@
 # EXAMEN PENSAMIENTO COMPUTACIONAL
 
 ## Nombre proyecto: PHOTO BOOTH
-Auntor: Matías Padilla
+Autor: Matías Padilla
 
 **Descripción General:**
 
@@ -60,6 +60,18 @@ El código consta de 3 estados:
 **Explicación de la interacción:**
 
 Los datos que van entrando al sistema son los siguientes: 
+
+![Variables](codigo1.png)
+
+A partir de estas variables se definen 7 interacciones:
+
+- 1: Activación de camara.
+- 2: Filtros.
+- 3 y 4: Coordenadas que definen el tamaño y la posición de los botones con los cuales se interactua.
+- 5: Posicionamiento y tamaño de la camara.
+- 6 y 7: Pantalla de inicio y créditos.
+
+  
 
 
 
