@@ -71,8 +71,13 @@ A partir de estas variables se definen 7 interacciones:
 - 5: Posicionamiento y tamaño de la camara.
 - 6 y 7: Pantalla de inicio y créditos.
 
-  
+Todos estos interactuan con diferentes funciones, tales como:
+
+![Funciones](MEDIA/codigo5.png)
 
 
+![Funciones](MEDIA/codigo7.png)
 
+
+![Funciones](MEDIA/codigo8.png)
 
