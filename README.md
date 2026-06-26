@@ -109,6 +109,9 @@ decorativo.
 ![Referente](MEDIA/cabinadefoto.jpg)
 
 
+![Referente](MEDIA/bmo.jpg)
+
+
 ![Boceto](MEDIA/BOCETO1.png)
 
 
